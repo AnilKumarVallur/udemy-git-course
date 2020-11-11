@@ -1,3 +1,3 @@
 # udemy-git-course
 
-This file is edited manually.
+This file is edited manually. One more edit from GitHub.
