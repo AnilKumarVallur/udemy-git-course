@@ -2,3 +2,4 @@ Just another file created in the feature-1 branch
 Local modification
 
 This line was added in feature-2 branch
+2nd update in feature-2 branch
